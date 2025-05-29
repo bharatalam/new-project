@@ -1,5 +1,5 @@
 text1 = input("Enter the text:\n").lower()
-shift_num = int(input("enter the shift code:\n"))
+shift_num = int(input("enter the shift code for feature1:\n"))
 index1=0
 index2=0
 
